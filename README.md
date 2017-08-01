@@ -1,5 +1,3 @@
-# Bitcoin Holidays
-
 *This is a list of Bitcoin Notable Dates Celebrated Every Year*
 
 Date | Link | Note
